@@ -9,7 +9,7 @@ node server.js
 
 
 ### Client:
-## Open other multiple terminals for chats and use:
+#### Open other multiple terminals for chats and use:
 node client.js
 
 You can run multiple clients simultaneously.
