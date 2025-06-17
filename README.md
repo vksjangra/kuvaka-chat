@@ -1,11 +1,5 @@
 # Kuvaka Tech - Real-Time Chat App (Node.js)
 
-## Directory structure:
-kuvaka-chat/
-├── server.js
-├── client.js
-├── README.md
-
 
 ## ✅ How to Run
 
